@@ -1,0 +1,36 @@
+[2026-10-03 18:48:23] === MODE UJI: 6 run singkat (10.000 baris), hasil TIDAK masuk data ===
+[2026-10-03 18:48:23] Membuat data input 10,000 baris (CSV, JSON, Parquet)...
+[2026-10-03 18:49:12] === MULAI EKSPERIMEN PENUH ===
+[2026-10-03 18:49:12] Operator: ramos | Laptop: LOQ | CPU: 13th Gen Intel(R) Core(TM) i5-13450HX | RAM: 11.7 GB | Windows 11 (10.0.26100)
+[2026-10-03 18:49:12] Status daya saat mulai: terhubung charger (baterai 79%)
+[2026-10-03 18:49:12] Membuat data input 50,000 baris (CSV, JSON, Parquet)...
+[2026-10-03 18:49:12] Membuat data input 100,000 baris (CSV, JSON, Parquet)...
+[2026-10-03 18:49:12] Membuat data input 500,000 baris (CSV, JSON, Parquet)...
+[2026-10-03 18:49:15] Membuat data input 1,000,000 baris (CSV, JSON, Parquet)...
+[2026-10-03 18:49:19] Tahap 1/2: PEMANASAN 30 run (tidak masuk data, mengurangi efek run pertama/cache dingin)
+[2026-10-03 18:49:54] Tahap 2/2: 300 RUN UTAMA (urutan acak, seed 42)
+[2026-10-03 18:50:45]   50/300 run tercatat
+[2026-10-03 18:51:41]   100/300 run tercatat
+[2026-10-03 18:52:38]   150/300 run tercatat
+[2026-10-03 18:54:05]   200/300 run tercatat
+[2026-10-03 18:55:12]   250/300 run tercatat
+[2026-10-03 18:56:12]   300/300 run tercatat
+[2026-10-03 18:56:12] Status daya saat selesai: terhubung charger (baterai 79%)
+[2026-10-03 18:56:12] === EKSPERIMEN SELESAI ===
+[2026-10-03 18:56:13] File Excel dibuat: 3TIF_01_PipelineETL.xlsx (300 baris x 13 kolom, NA = 0)
+[2026-10-03 18:56:45] === MULAI EKSPERIMEN PENUH ===
+[2026-10-03 18:56:45] Operator: ramos | Laptop: LOQ | CPU: 13th Gen Intel(R) Core(TM) i5-13450HX | RAM: 11.7 GB | Windows 11 (10.0.26100)
+[2026-10-03 18:56:45] Status daya saat mulai: terhubung charger (baterai 79%)
+[2026-10-03 18:56:45] Tahap 1/2: pemanasan sudah selesai sebelumnya, dilewati.
+[2026-10-03 18:56:45] Tahap 2/2: semua 300 run sudah tercatat.
+[2026-10-03 18:56:45] Status daya saat selesai: terhubung charger (baterai 79%)
+[2026-10-03 18:56:45] === EKSPERIMEN SELESAI ===
+[2026-10-03 18:56:45] File Excel dibuat: 3TIF_01_PipelineETL.xlsx (300 baris x 13 kolom, NA = 0)
+[2026-10-05 13:30:33] === MULAI EKSPERIMEN PENUH ===
+[2026-10-05 13:30:33] Operator: ramos | Laptop: LOQ | CPU: 13th Gen Intel(R) Core(TM) i5-13450HX | RAM: 11.7 GB | Windows 11 (10.0.26100)
+[2026-10-05 13:30:33] Status daya saat mulai: terhubung charger (baterai 75%)
+[2026-10-05 13:30:33] Tahap 1/2: pemanasan sudah selesai sebelumnya, dilewati.
+[2026-10-05 13:30:33] Tahap 2/2: semua 300 run sudah tercatat.
+[2026-10-05 13:30:33] Status daya saat selesai: terhubung charger (baterai 75%)
+[2026-10-05 13:30:33] === EKSPERIMEN SELESAI ===
+[2026-10-05 13:30:33] File Excel dibuat: 3TIF_01_PipelineETL.xlsx (300 baris x 13 kolom, NA = 0)

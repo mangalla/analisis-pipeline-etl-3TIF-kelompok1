@@ -1,0 +1,11 @@
+# Data input dan output dibuat ulang otomatis oleh jalankan_eksperimen.py (seed 42).
+# Ukurannya lebih dari 1 GB dan beberapa file di atas batas 100 MB GitHub, jadi tidak diunggah.
+data_input/
+data_output/
+
+# File kunci sementara Microsoft Word/Excel
+~$*
+
+# Cache Python
+__pycache__/
+*.pyc

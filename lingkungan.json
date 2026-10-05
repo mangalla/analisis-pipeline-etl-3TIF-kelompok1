@@ -1,0 +1,12 @@
+{
+  "os": "Windows 11 (10.0.26100)",
+  "cpu": "13th Gen Intel(R) Core(TM) i5-13450HX",
+  "cpu_inti_fisik": 10,
+  "cpu_inti_logis": 16,
+  "ram_total_gb": 11.7,
+  "python": "3.13.15",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "polars": "1.44.2",
+  "pyarrow": "25.0.1"
+}
